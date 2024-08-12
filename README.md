@@ -1,1 +1,1 @@
-Nodejs basics like crud funcs, filestream, and NPM is here!
+Nodejs basics like crud funcs, filestream, NPM and EJS is also (ejs files can be run using app_view.js) here!

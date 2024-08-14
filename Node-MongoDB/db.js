@@ -1,7 +1,7 @@
 const {MongoClient} = require('mongodb');
 
 let dbConnection
-let url = 'mongodb+srv://toharivenkat:hari2444@clusterhv.ew0w3qw.mongodb.net/?retryWrites=true&w=majority&appName=Clusterhv'
+let url = 'mongodb+srv://<user-name>:<password>@clusterhv.ew0w3qw.mongodb.net/?retryWrites=true&w=majority&appName=Clusterhv'
 
 module.exports = {
     connectToDb: (cb) => {
